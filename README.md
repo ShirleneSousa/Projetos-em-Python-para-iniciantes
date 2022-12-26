@@ -2,5 +2,5 @@
 
 #### Projetos básicos para praticar a programaçãp em Python:
 
-- Jokenpô
+- Pedra, Papel, Tesoura
 
