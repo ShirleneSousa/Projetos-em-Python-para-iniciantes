@@ -2,5 +2,6 @@
 
 #### Projetos básicos para praticar a programaçãp em Python:
 
-- Pedra, Papel, Tesoura: ótimo para entender os comandos condicionais, funções e entrada do usuário.
+- Pedra, Papel, Tesoura.
 
+- Adivinhe o numero aleatório.
