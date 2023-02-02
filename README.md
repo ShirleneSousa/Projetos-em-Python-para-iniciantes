@@ -4,4 +4,4 @@
 
 - Pedra, Papel, Tesoura.
 
-- Adivinhe o numero aleatório.
+- Adivinhe o numero aleatório gerado pelo computador.
