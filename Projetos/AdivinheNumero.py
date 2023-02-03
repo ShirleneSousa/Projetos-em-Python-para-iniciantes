@@ -1,16 +1,17 @@
-import random 
+import random
 
-def adv(x):
-  random_n = random.randint(1, x)
-  adv = 0
-  while adv != random_n:
-    adv = int(input('Numero entre 1 e {x}: '))
-    if adv < random_n:
-      print('Tente novamente, valor pequeno.')
-    elif adv > random_n:
-      print('Tente novamente, valor grande.')
+def GuessNumber(x):
+  number = random.randint(1, x)
+  guess = 0
+  while guess != number:
+    guess = int(input(f'Qual é o numero entre 1 e {x}: '))
+    if guess < number:
+      print('Tente novamente. Número pequeno')
+    elif guess > number:
+      print('Tente novamente. Número grande')
       
-  print(f'Parabens. Voce acertou o numero {random_n} corretamente')
-  
-adv(100)
+  print(f'Parabéns. Você acertou o número {number} corretamente')
+      
     
+GuessNumber(10)
+  
