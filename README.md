@@ -7,3 +7,5 @@
 - Adivinhe o numero aleatório gerado pelo computador.
 
 - Mad libs: um jogo de substituição de palavras.
+
+- Contagem regressiva.
